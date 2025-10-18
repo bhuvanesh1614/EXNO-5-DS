@@ -482,4 +482,4 @@ plt.axis('equal') plt.show()
 
 
 # Result:
- Include your result here
+ Thus, The implementation of data visualization using matplotlib has been successfully verified.
